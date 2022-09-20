@@ -1,2 +1,2 @@
-# exercises_JS_AnaB
+### exercises_JS_AnaB
 Javascript exercises provided by Professor AnaB.
